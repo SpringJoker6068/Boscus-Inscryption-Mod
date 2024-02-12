@@ -6,16 +6,22 @@ This mod will add one talking card to Act I with its own lore for now.
 I do plan on heavily expanding this mod in the future.
 
 # To-Do List
-- Act III card
-- 
+- Act III talking card
+- MORE LORE!!!!!!!
+- New Cards for all Acts
+- New Encounters using those cards
+- New custom sigils
+- Totems for some of those sigils
+- Kaycee's Mod Starterpacks
+- Mod compabilities (Grimora Mod, Magnificus Mod, etc.)
+- A whole new 3D area to explore (This goal is for the very far future)
 
 # Installation
 This mod’s dependencies are BepInEx, the InscryptionAPI, JSONCardLoader.
 
-The Jackalope Mod was made using [Luuhoo's The_Jackalope Mod](https://inscryption.thunderstore.io/package/luuhoo/The_Jackalope/) (which itself was made using [KellyBetty's Talking Possum Mod](https://inscryption.thunderstore.io/package/KellyBetty/Talking_Possum/)) as a base and [JSONCardLoader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/).
+This Mod was made using [Luuhoo's The_Jackalope Mod](https://inscryption.thunderstore.io/package/luuhoo/The_Jackalope/) (which itself was made using [KellyBetty's Talking Possum Mod](https://inscryption.thunderstore.io/package/KellyBetty/Talking_Possum/)) as a base and [JSONCardLoader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/).
 
-If you experience any bugs or have any concepts, questions, etc. dm me on discord at boscus_
-
+If you experience any bugs or have any suggestions, questions, etc. dm me on discord at boscus_
 
 To copy directly from Luuhoo's The_jackalope Mod README (Yes, I know I'm lazy):
 -----------------------------------------------------------------
