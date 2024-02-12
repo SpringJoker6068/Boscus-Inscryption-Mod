@@ -32,4 +32,4 @@ There are two ways of installing this mod: with the help of a mod manager (like 
 3. Download and install the [Inscryption API mod](https://inscryption.thunderstore.io/package/API_dev/API/) following its manual installation guide. You need version 2.9.1+ of the API to run this mod.
 4. Download and install the [JSONCardLoader mod](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/) following its manual installation guide. You need version 2.3.0 of JSONCardLoader to run this mod.
 6. Find the `BepInEx > plugins` folder.
-7. Place the contents of **"TalkingJackalope.zip"** in a new folder within the plugins folder.
+7. Place the contents of **"MOD.zip"** in a new folder within the plugins folder.
