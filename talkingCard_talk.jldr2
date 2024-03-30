@@ -1,0 +1,212 @@
+{
+  "cardName": "bos_Boscus",
+  "faceSprite": "face.png",
+  "eyeSprites": {
+    "open": "neutral_eye_open.png",
+    "closed": "neutral_eye_closed.png"
+  },
+  "mouthSprites": {
+    "open": "neutral_mouth_open.png",
+    "closed": "neutral_mouth_closed.png"
+  },
+  "emissionSprite": "neutral_emission.png",
+  "faceInfo": {
+    "blinkRate": 1,
+    "voiceId": "female1_voice",
+    "voiceSoundPitch": 1
+  },
+  "emotions": [
+    {
+      "emotion": "Anger",
+      "eyeSprites": {
+        "open": "angry_eye_open.png",
+        "closed": "angry_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "angry_mouth_open.png",
+        "closed": "angry_mouth_closed.png"
+      },
+      "emissionSprite": "angry_emission.png"
+    },
+    {
+      "emotion": "Quiet",
+      "eyeSprites": {
+        "open": "quiet_eye_open.png",
+        "closed": "quiet_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "angry_mouth_open.png",
+        "closed": "angry_mouth_closed.png"
+      },
+      "emissionSprite": "quiet_emission.png"
+    },
+    {
+      "emotion": "Laughter",
+      "eyeSprites": {
+        "open": "laughing_eye_open.png",
+        "closed": "laughing_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "neutral_mouth_open.png",
+        "closed": "neutral_mouth_closed.png"
+      }
+    },
+    {
+      "emotion": "Surprise",
+      "eyeSprites": {
+        "open": "surprised_eye_open.png",
+        "closed": "surprised_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "surprised_mouth_open.png",
+        "closed": "surprised_mouth_closed.png"
+      },
+      "emissionSprite": "surprised_emission.png"
+    }
+  ],
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "AnglerBoss",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "RoyalBoss",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        ""
+      ],
+      "repeatLines": [
+        [
+          ""
+        ]
+      ]
+    }
+  ]
+}
