@@ -1,6 +1,6 @@
 {
   "cardName": "bos_Boscus",
-  "faceSprite": "face.png",
+  "faceSprite": "body.png",
   "eyeSprites": {
     "open": "neutral_eye_open.png",
     "closed": "neutral_eye_closed.png"
@@ -17,51 +17,16 @@
   },
   "emotions": [
     {
-      "emotion": "Anger",
+      "emotion": "Placeholder",
       "eyeSprites": {
-        "open": "angry_eye_open.png",
-        "closed": "angry_eye_closed.png"
+        "open": "placeholder_eye_open.png",
+        "closed": "placeholder_eye_closed.png"
       },
       "mouthSprites": {
-        "open": "angry_mouth_open.png",
-        "closed": "angry_mouth_closed.png"
+        "open": "placeholder_mouth_open.png",
+        "closed": "placeholder_mouth_closed.png"
       },
-      "emissionSprite": "angry_emission.png"
-    },
-    {
-      "emotion": "Quiet",
-      "eyeSprites": {
-        "open": "quiet_eye_open.png",
-        "closed": "quiet_eye_closed.png"
-      },
-      "mouthSprites": {
-        "open": "angry_mouth_open.png",
-        "closed": "angry_mouth_closed.png"
-      },
-      "emissionSprite": "quiet_emission.png"
-    },
-    {
-      "emotion": "Laughter",
-      "eyeSprites": {
-        "open": "laughing_eye_open.png",
-        "closed": "laughing_eye_closed.png"
-      },
-      "mouthSprites": {
-        "open": "neutral_mouth_open.png",
-        "closed": "neutral_mouth_closed.png"
-      }
-    },
-    {
-      "emotion": "Surprise",
-      "eyeSprites": {
-        "open": "surprised_eye_open.png",
-        "closed": "surprised_eye_closed.png"
-      },
-      "mouthSprites": {
-        "open": "surprised_mouth_open.png",
-        "closed": "surprised_mouth_closed.png"
-      },
-      "emissionSprite": "surprised_emission.png"
+      "emissionSprite": "placeholder_emission.png"
     }
   ],
   "dialogueEvents": [
