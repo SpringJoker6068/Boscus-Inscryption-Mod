@@ -19,14 +19,14 @@
     {
       "emotion": "Placeholder",
       "eyeSprites": {
-        "open": "placeholder_eye_open.png",
-        "closed": "placeholder_eye_closed.png"
+        "open": "neutral_eye_open.png",
+        "closed": "neutral_eye_closed.png"
       },
       "mouthSprites": {
-        "open": "placeholder_mouth_open.png",
-        "closed": "placeholder_mouth_closed.png"
+        "open": "neutral_mouth_open.png",
+        "closed": "neutral_mouth_closed.png"
       },
-      "emissionSprite": "placeholder_emission.png"
+      "emissionSprite": "neutral_emission.png"
     }
   ],
   "dialogueEvents": [
