@@ -17,7 +17,19 @@
   },
   "emotions": [
     {
-      "emotion": "Annoyed",
+      "emotion": "Laughter",
+      "eyeSprites": {
+        "open": "laughing_eyes_b.png",
+        "closed": "laughing_eyes_a.png"
+      },
+      "mouthSprites": {
+        "open": "laughing_mouth_b.png",
+        "closed": "laughing_mouth_a.png"
+      },
+      "emissionSprite": "laughing_emission.png"
+    },
+    {
+      "emotion": "Anger",
       "eyeSprites": {
         "open": "annoyed_eyes_open.png",
         "closed": "annoyed_eyes_closed.png"
@@ -29,73 +41,85 @@
       "emissionSprite": "annoyed_emission.png"
     },
     {
-      "emotion": "Sad",
+      "emotion": "Quiet",
       "eyeSprites": {
-        "open": "sad_eyes_open.png",
-        "closed": "sad_eyes_closed.png"
+        "open": "quiet_eyes_open.png",
+        "closed": "quiet_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "sad_mouth_open.png",
-        "closed": "sad_mouth_closed.png"
+        "open": "quiet_mouth_open.png",
+        "closed": "quiet_mouth_closed.png"
       },
-      "emissionSprite": "sad_emission.png"
+      "emissionSprite": "quiet_emission.png"
     },
     {
-      "emotion": "Happy",
+      "emotion": "Surprise",
       "eyeSprites": {
-        "open": "happy_eyes_open.png",
-        "closed": "happy_eyes_closed.png"
+        "open": "surprised_eyes_open.png",
+        "closed": "surprised_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "happy_mouth_open.png",
-        "closed": "happy_mouth_closed.png"
+        "open": "surprised_mouth_open.png",
+        "closed": "surprised_mouth_closed.png"
       },
-      "emissionSprite": "happy_emission.png"
+      "emissionSprite": "surprised_emission.png"
     },
     {
-      "emotion": "Laughing",
+      "emotion": "Curious",
       "eyeSprites": {
-        "open": "laughing_eyes_b.png",
-        "closed": "laughing_eyes_a.png"
+        "open": "curious_eyes_open.png",
+        "closed": "curious_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "laughing_mouth_b.png",
-        "closed": "laughing_mouth_a.png"
+        "open": "curious_mouth_open.png",
+        "closed": "curious_mouth_closed.png"
       },
-      "emissionSprite": "laughing_emission.png"
+      "emissionSprite": "curious_emission.png"
     }
   ],
   "dialogueEvents": [
     {
       "eventName": "OnDrawn",
       "mainLines": [
-        ""
+        "[e:anger]What do y-[w:0.7]",
+        "[e:surprise].[w:0.3].[w:0.3].[w:0.7]",
+        "[e:neutral]Hello...[w:1.5]",
+        "[e:quiet]I did not think [c:R]he[c:] would[w:0.7]",
+        "[e:quiet]deal me to challengers.[w:0.7]",
+        "[e:neutral]Well, I hope I can[w:0.7]",
+        "[e:neutral]be of use to you"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:neutral]We meet again..."
         ]
       ]
     },
     {
       "eventName": "OnPlayFromHand",
       "mainLines": [
-        ""
+        "[e:quiet]I've never been a warrior...[w:0.7]",
+        "[e:anger]Though I swear by the stars[w:0.7]",
+        "[e:anger]I will not let you down!"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:anger]Don't fly too close to the sun[w:0.7]",
+          "you might get burnt"
         ]
       ]
     },
     {
       "eventName": "ProspectorBoss",
       "mainLines": [
-        ""
+        "[e:curious]The prospector?[w:1][e:neutral] I see...",
+        "[e:neutral]Please be patient,[w:0.7]",
+        "[e:neutral]wait until the gold rush is over",
+        "[e:neutral]then i will finish him off.
       ],
       "repeatLines": [
         [
-          ""
+          "[e:curious]Again?[w:1][e:neutral] Remember to be patient"
         ]
       ]
     },
