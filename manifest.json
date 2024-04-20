@@ -1,8 +1,8 @@
 {
-  "name": "Bosc-Mod",
-  "version_number": "0.0.0",
+  "name": "Boscus Inscryption Mod",
+  "version_number": "0.1.0",
   "website_url": "https://github.com/SpringJoker6068/Boscus-Inscryption-Mod",
-  "description": "Not ready for release",
+  "description": "A mod that plans on expanding on Vanilla gameplay.",
   "dependencies": [
     "BepInEx-BepInExPack_Inscryption-5.4.1901",
     "API_dev-API-2.9.1",

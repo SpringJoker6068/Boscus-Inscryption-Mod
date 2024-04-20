@@ -1,9 +1,12 @@
-# Scrongly
-Haha, I am getting into inscryption modding now :)
-
 # Description
-This mod will add one talking card to Act I with its own lore for now.
-I do plan on heavily expanding this mod in the future.
+This mod adds one talking card to the game with its own (Not fully finished) lore.
+
+Will add significantly more in the future (Might split that into seperate mods though)
+
+# Card List
+| Name | Health | Attack | Cost | Sigils | Tribe |
+| --- | -- | -- | ---- | --------- | --- |
+| [Placeholder] | 1 | 2 | 1 Blood | Airborne, Hoarder, Amorphous | Avian |
 
 # To-Do List
 - Act III talking card
@@ -14,7 +17,18 @@ I do plan on heavily expanding this mod in the future.
 - Totems for some of those sigils
 - Kaycee's Mod Starterpacks
 - Mod compabilities (Grimora Mod, Magnificus Mod, etc.)
-- A whole new 3D area to explore (This goal is for the very far future)
+- A whole new 2D and 3D area to explore (This goal is for the very far future)
+
+# Special Thanks to:
+Special thanks to [Luuhoo](https://thunderstore.io/c/inscryption/p/luuhooo/) for helping with questions and motivating me!
+(Go check out their mods, they are awesome)
+
+The [Inscryption Wiki](https://inscryption.fandom.com/wiki/Inscryption_Wiki) for lots of in game information.
+
+The [Inscryption Modding Discord](https://discord.gg/ZQPvfKEpwM) for helping with questions.
+
+# Changeelog
+Moved to seperate file [over here](CHANGELOG.md) for organising.
 
 # Installation
 This mod’s dependencies are BepInEx, the InscryptionAPI, JSONCardLoader.

@@ -106,6 +106,9 @@
         [
           "[e:anger]Don't fly too close to the sun[w:0.7]",
           "you might get burnt"
+        ],
+        [
+          "[e:neutral]Into the unkown..."
         ]
       ]
     },
@@ -126,110 +129,173 @@
     {
       "eventName": "AnglerBoss",
       "mainLines": [
-        ""
+        "[e:neutral]Good fish, Bad fish.[w:1]",
+        "[e:neutral]Does it truly matter?",
+        "[e:quiet]In the end, the catch[w:0.7]",
+        "[e:quiet]will sustain you for another day...[w:0.3][leshy:Fish talk too much, fish be quiet][w:1]",
+        "[e:anger]..."
       ],
       "repeatLines": [
         [
-          ""
+          "[e:quiet]You know, this one is[w:0.7]",
+          "[e:quiet]responsible for [e:anger][c:R]all of THIS"
         ]
       ]
     },
     {
       "eventName": "TrapperTraderBoss",
       "mainLines": [
-        ""
+        "[e:surprise]Oh[w:0.3].[w:0.3].[w:0.3].[w:1.5]",
+        "[e:quiet]I forgot about [c:R]them[c:]..."
       ],
       "repeatLines": [
         [
-          ""
+          "[e:quiet]...[w:0.7]"
+        ],
+        [
+          "[e:quiet]Let us get this over with...[w:0.7]"
+        ],
+        [
+          "[e:quiet]Do we have to fight thi-[w:0.1][e:surprise][leshy:Yes][w:0.7]",
+          "[e:quiet]Please make this quick challenger..."
         ]
       ]
     },
     {
       "eventName": "LeshyBoss",
       "mainLines": [
-        ""
+        "[e:neutral]The end is nigh[w:0.7]",
+        "[e:quiet]I can feel the skies tremble"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:anger]Why did you suddenly decide[w:0.7]",
+          "[e:anger]to pay attention to me[w:0.7]",
+          "[e:anger]once you had the [c:R]catalyst[c:]?[w:0.5][leshy:You know why][e:quiet]
         ]
       ]
     },
     {
       "eventName": "OnAttacked",
       "mainLines": [
-        ""
+        "[e:anger]Agh![w:0.7]",
+        "[e:quiet]I'm not used to pain anymore..."
       ],
       "repeatLines": [
         [
-          ""
+          "[e:quiet]At least theres no blood.[w:0.7]",
+          "[e:quiet]The scent of it is very[w:0.7]",
+          "[e:quiet]hard to wash off"
         ]
       ]
     },
     {
       "eventName": "OnBecomeSelectablePositive",
       "mainLines": [
-        ""
+        "[e:laughter]The stars align today![w:0.7]",
+        "[e:laughter]This is a great omen.[w:0.7]"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:neutral]I could use the power"
         ]
       ]
     },
     {
       "eventName": "RoyalBoss",
       "mainLines": [
-        ""
+        "[e:anger]Les-[w:0.3] [e:surprise]...what?",
+        "[e:curious]Who gave you her masks?[w:0.7][leshy:I helped myself to them][w:0.7]",
+        "[e:anger]Ofcourse you did..."
       ],
       "repeatLines": [
         [
-          ""
+          "[e:laughter]Yarrgh, there be treasure!"
         ]
       ]
     },
     {
       "eventName": "OnBecomeSelectableNegative",
       "mainLines": [
-        ""
+        "[e:quiet]I would prefer it if you[w:0.7]",
+        "[e:quiet]could spare me here.[w:1]",
+        "[e:quiet]Please..."
       ],
       "repeatLines": [
         [
-          ""
+          "[e:quiet]If I must...[w:0.7]"
+          "[e:neutral]I will not complain"
         ]
       ]
     },
     {
       "eventName": "OnSacrificed",
       "mainLines": [
-        ""
+        "No! I don't want to go back!"
       ],
       "repeatLines": [
         [
-          ""
+          "Ashes to ashes..."
+        ],
+        [
+          "As from whence I came..."
+        ],
+        [
+          "Unavoidable..."
+        ],
+        [
+          "..."
+        ],
+        [
+          "Why me?"
         ]
       ]
     },
     {
       "eventName": "OnSelectedForDeckTrial",
       "mainLines": [
-        ""
+        "[e:quiet]If only I could see the sky[w:0.7]",
+        "[e:laughter]Then I could tell[w:0.5]",
+        "[e:laughter]you the outcome!"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:laughter]We will succeed!"
+        ],
+        [
+          "[e:neutral]I trust in you skill"
+        ],
+        [
+          "[e:laughter]I have a good feeling[w:0.5]",
+          "[e:laughter]about this!"
         ]
       ]
     },
     {
       "eventName": "OnSelectedForCardRemove",
       "mainLines": [
-        ""
+        "[e:quiet]This is something you[w:0.5]",
+        "[e:quiet]can't come back from.[w:0.2].[w:0.2].[w:0.7]",
+        "[e:quiet]I'd once again be alone...[w:1.5]",
+        "[e:laughter]But whats a few hours[w:0.5]",
+        "[e:laughter]in the face of eternity?[w:0.7]"
       ],
       "repeatLines": [
         [
-          ""
+          "[e:quiet]The Abyss calls..."
+        ],
+        [
+          "[e:quiet]Dust to dust..."
+        ],
+        [
+          "[e:surprised]By the stars![w:0.7]",
+          "[e:surprised]I just remembered this![w:1]",
+          "[e:neutral][c:R]The Bonelord[c:] knows more[w:0.5]",
+          "[e:neutral]than even [c:bR]him[c:]...[w:0.7]"
+        ],
+        [
+          "[e:quiet]May the stars guide[w:0.5]",
+          "[e:quiet]you when I am gone[w:0.7]"
         ]
       ]
     }
