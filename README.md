@@ -27,6 +27,8 @@ The [Inscryption Wiki](https://inscryption.fandom.com/wiki/Inscryption_Wiki) for
 
 The [Inscryption Modding Discord](https://discord.gg/ZQPvfKEpwM) for helping with questions.
 
+[IngoH](https://ingoh.net/inscryption/textures/) for texture references.
+
 # Changeelog
 Moved to seperate file [over here](CHANGELOG.md) for organising.
 
