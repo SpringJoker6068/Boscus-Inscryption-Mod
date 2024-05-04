@@ -1,0 +1,7 @@
+{
+	"Title": "Starfall Cards",
+	"Description": "Adds new cards based on space, eldritch beings and L O R E",
+	"ModPrefix": "bos",
+	"PackArt": "bosPack.png",
+    "ValidFor": ["LeshyPack"]
+}
