@@ -5,8 +5,8 @@ Will add significantly more in the future (Might split that into seperate mods t
 
 # Card List
 | Name | Health | Attack | Cost | Sigils | Tribe |
-| --- | -- | -- | ---- | --------- | --- |
-| [Placeholder] | 1 | 2 | 1 Blood | Airborne, Hoarder, Amorphous | Avian |
+| - | - | - | - | - | - |
+| Nightingale | 1 | 2 | 1 Blood | Airborne, Hoarder, Amorphous | Avian |
 
 # To-Do List
 - Act III talking card
@@ -19,8 +19,8 @@ Will add significantly more in the future (Might split that into seperate mods t
 - Mod compabilities (Grimora Mod, Magnificus Mod, etc.)
 - A whole new 2D and 3D area to explore (This goal is for the very far future)
 
-# Special Thanks to:
-Special thanks to [Luuhoo](https://thunderstore.io/c/inscryption/p/luuhooo/) for helping with questions and motivating me!
+# Special Thanks to...
+[Luuhoo](https://thunderstore.io/c/inscryption/p/luuhooo/) for helping with questions and motivating me!
 (Go check out their mods, they are awesome)
 
 The [Inscryption Wiki](https://inscryption.fandom.com/wiki/Inscryption_Wiki) for lots of in game information.

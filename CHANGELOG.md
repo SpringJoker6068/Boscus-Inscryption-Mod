@@ -1,6 +1,6 @@
 ### Welcome to the Changelog
 
-# V 0.1.0
+# V 0.1.0 (Pre Release)
 - Added sprite placeholders for talking card.
 - Added some basic dialogue and lore.
 - Finished actual card for talking card.
