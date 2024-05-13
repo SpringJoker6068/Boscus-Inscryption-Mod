@@ -12,3 +12,7 @@
 # V 0.1.1
 - Added [Pack management API](https://thunderstore.io/c/inscryption/p/Infiniscryption/Pack_Management_API/) support.
 - Fixed a few typos
+
+# V 0.1.2
+- Talking card rebalanced from a 2/1 to a 2/2.
+- Removed Tutor sigil from talking card.

@@ -6,7 +6,7 @@ Will add significantly more in the future (Might split that into seperate mods t
 # Card List
 | Name | Health | Attack | Cost | Sigils | Tribe |
 | - | - | - | - | - | - |
-| Nightingale | 1 | 2 | 1 Blood | Airborne, Hoarder, Amorphous | Avian |
+| Nightingale | 2 | 2 | 1 Blood | Airborne, Amorphous | Avian |
 
 # To-Do List
 - Act III talking card
