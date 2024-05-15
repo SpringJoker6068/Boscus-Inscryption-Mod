@@ -1,8 +1,8 @@
 {
-  "name": "Boscus Inscryption Mod",
-  "version_number": "0.1.0",
+  "name": "Starfall",
+  "version_number": "0.2.0",
   "website_url": "https://github.com/SpringJoker6068/Boscus-Inscryption-Mod",
-  "description": "A mod that plans on expanding on Vanilla gameplay.",
+  "description": "A mod that plans on implementing custom lore into the game wi´hile keeping a mostly vanilla feel.",
   "dependencies": [
     "BepInEx-BepInExPack_Inscryption-5.4.1901",
     "API_dev-API-2.9.1",

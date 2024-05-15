@@ -1,10 +1,11 @@
 {
-  "name": "bos_Boscus",
+  "name": "bos_Nightingale",
   "modPrefix": "bos",
-  "displayedName": "Boscus",
-  "description": "Don't worry, the name is a placeholder!",
+  "displayedName": "Nightingale",
+  "description": "Oh... I did not think I'd see it again. Ah well, you may take it",
   "metaCategories": [
-    "ChoiceNode"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

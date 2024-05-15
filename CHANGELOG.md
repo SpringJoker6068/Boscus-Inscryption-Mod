@@ -16,3 +16,11 @@
 # V 0.1.2
 - Talking card rebalanced from a 2/1 to a 2/2.
 - Removed Tutor sigil from talking card.
+
+# V 0.2.0
+- Fixed sprite paths not actually doing anything.
+- Changed talking card name to actual intended name.
+- Changed talking card description.
+- Added starter deck "The Prophecy"
+- Added new dialogue and lore. (More will be added soon in 0.2.1 I'm forced to push this update early)
+- Changed Name/Description in manifest,json

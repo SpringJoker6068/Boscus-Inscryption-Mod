@@ -1,0 +1,13 @@
+{
+  "decks": [
+    {
+      "name": "The Prophecy",
+      "iconTexture": "sprites/starter decks/prophecy.png",
+      "cards": [
+        "bos_Nightingale",
+        "Stoat",
+        "Wolf"
+      ]
+    }
+  ]
+}

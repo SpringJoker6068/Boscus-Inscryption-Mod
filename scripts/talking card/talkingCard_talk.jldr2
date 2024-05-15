@@ -1,15 +1,15 @@
 {
   "cardName": "bos_Boscus",
-  "faceSprite": "body.png",
+  "faceSprite": "sprites/talking card/body.png",
   "eyeSprites": {
-    "open": "neutral_eyes_open.png",
-    "closed": "neutral_eyes_closed.png"
+    "open": "sprites/talking card/neutral/neutral_eyes_open.png",
+    "closed": "sprites/talking card/neutral/neutral_eyes_closed.png"
   },
   "mouthSprites": {
-    "open": "neutral_mouth_open.png",
-    "closed": "neutral_mouth_closed.png"
+    "open": "sprites/talking card/neutral/neutral_mouth_open.png",
+    "closed": "sprites/talking card/neutral/neutral_mouth_closed.png"
   },
-  "emissionSprite": "neutral_emission.png",
+  "emissionSprite": "sprites/talking card/neutral/neutral_emission.png",
   "faceInfo": {
     "blinkRate": 1,
     "voiceId": "female1_voice",
@@ -19,62 +19,62 @@
     {
       "emotion": "Laughter",
       "eyeSprites": {
-        "open": "laughing_eyes_b.png",
-        "closed": "laughing_eyes_a.png"
+        "open": "sprites/talking card/laughter/laughing_eyes_b.png",
+        "closed": "sprites/talking card/laughter/laughing_eyes_a.png"
       },
       "mouthSprites": {
-        "open": "laughing_mouth_b.png",
-        "closed": "laughing_mouth_a.png"
+        "open": "sprites/talking card/laughter/laughing_mouth_b.png",
+        "closed": "sprites/talking card/laughter/laughing_mouth_a.png"
       },
-      "emissionSprite": "laughing_emission.png"
+      "emissionSprite": "sprites/talking card/laughter/laughing_emission.png"
     },
     {
       "emotion": "Anger",
       "eyeSprites": {
-        "open": "annoyed_eyes_open.png",
-        "closed": "annoyed_eyes_closed.png"
+        "open": "sprites/talking card/anger/annoyed_eyes_open.png",
+        "closed": "sprites/talking card/anger/annoyed_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "annoyed_mouth_open.png",
-        "closed": "annoyed_mouth_closed.png"
+        "open": "sprites/talking card/anger/annoyed_mouth_open.png",
+        "closed": "sprites/talking card/anger/annoyed_mouth_closed.png"
       },
-      "emissionSprite": "annoyed_emission.png"
+      "emissionSprite": "sprites/talking card/anger/annoyed_emission.png"
     },
     {
       "emotion": "Quiet",
       "eyeSprites": {
-        "open": "quiet_eyes_open.png",
-        "closed": "quiet_eyes_closed.png"
+        "open": "sprites/talking card/quiet/quiet_eye_open.png",
+        "closed": "sprites/talking card/quiet/quiet_eye_closed.png"
       },
       "mouthSprites": {
-        "open": "quiet_mouth_open.png",
-        "closed": "quiet_mouth_closed.png"
+        "open": "sprites/talking card/quiet/quiet_mouth_open.png",
+        "closed": "sprites/talking card/quiet/quiet_mouth_closed.png"
       },
-      "emissionSprite": "quiet_emission.png"
+      "emissionSprite": "sprites/talking card/quiet/quiet_emission.png"
     },
     {
       "emotion": "Surprise",
       "eyeSprites": {
-        "open": "surprised_eyes_open.png",
-        "closed": "surprised_eyes_closed.png"
+        "open": "sprites/talking card/surprise/surprised_eyes_open.png",
+        "closed": "sprites/talking card/surprise/surprised_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "surprised_mouth_open.png",
-        "closed": "surprised_mouth_closed.png"
+        "open": "sprites/talking card/surprise/surprised_mouth_open.png",
+        "closed": "sprites/talking card/surprise/surprised_mouth_closed.png"
       },
-      "emissionSprite": "surprised_emission.png"
+      "emissionSprite": "sprites/talking card/surprise/surprised_emission.png"
     },
     {
       "emotion": "Curious",
       "eyeSprites": {
-        "open": "curious_eyes_open.png",
-        "closed": "curious_eyes_closed.png"
+        "open": "sprites/talking card/curious/curious_eyes_open.png",
+        "closed": "sprites/talking card/curious/curious_eyes_closed.png"
       },
       "mouthSprites": {
-        "open": "curious_mouth_open.png",
-        "closed": "curious_mouth_closed.png"
+        "open": "sprites/talking card/curious/curious_mouth_open.png",
+        "closed": "sprites/talking card/curious/curious_mouth_closed.png"
       },
-      "emissionSprite": "curious_emission.png"
+      "emissionSprite": "sprites/talking card/curious/curious_emission.png"
     }
   ],
   "dialogueEvents": [
@@ -92,6 +92,18 @@
       "repeatLines": [
         [
           "[e:neutral]We meet again..."
+        ],
+        [
+          "[e:quiet]Something strange is going on...[w:1]",
+          "[e:quiet]I can't seem to remember[w:0.7]",
+          "[e:quiet]what came before this cabin...[w:1.5]",
+          "[e:curious]Strange..."
+        ],
+        [
+          "[e:neutral]The Stars are shining...[w:1]",
+          "[e:curious]Or atleast I hope so.[w:0.7]",
+          "I can hardly see[w:0.7]",
+          "past your hand."
         ]
       ]
     },
